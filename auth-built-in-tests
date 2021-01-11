@@ -1,0 +1,2 @@
+#!/bin/bash
+SKIP_CAS=1 SKIP_LDAP=1 SKIP_SAML=1 script/authentication-tests $*
